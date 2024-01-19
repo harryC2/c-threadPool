@@ -28,3 +28,5 @@ Singleton<TaskDispathcher>:: instance()->init(threads); // 初始化线程池，
 Task * task = new EchoTask();
 Singlton<TaskDispatcher>::instance()->assign(task); //分派任务
 
+
+// 后续将会实现区分任务优先级优化
