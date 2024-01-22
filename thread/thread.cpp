@@ -25,6 +25,7 @@ void Thread::start(){
 void* Thread::threadFunc(void* ptr)
 {
     Thread *thread = (Thread *)ptr;
+    thread->init();
     thread->run();
     return ptr;
 }

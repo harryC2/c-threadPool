@@ -1,8 +1,10 @@
 #include "workthread.h"
 #include "threadpool.h"
-#include <signal.h>
-
+#include <string.h>
+#include "..\utility\logger.h"
+#include <iostream>
 using namespace web_rpc::thread_poll;
+using namespace web_rpc::utility;
 
 
 WorkerThread::WorkerThread()
@@ -18,6 +20,8 @@ WorkerThread::~WorkerThread()
 void WorkerThread::clearUp(void* pVoid)
 {
     // log执行清理函数
+    info("clearup %d",static_cast<Thread*>(pVoid));
+    std::cout<<"clearup"<<std::endl;
 }
 
 void WorkerThread::run()
@@ -34,6 +38,13 @@ void WorkerThread::run()
     // {
     //     // error log worker thread pthread_sigmask faile!
     // }
+    unsigned long  mask;
+    memset(&mask, 0xFF, sizeof(unsigned long));
+    if (0 != pthread_sigmask(SIG_SETMASK, &mask, NULL))
+    {
+        error("thread manager pthread_sigmask failed!");
+        return;
+    }
 
     pthread_cleanup_push(clearUp, this);
     // 线程运行函数

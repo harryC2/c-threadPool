@@ -1,6 +1,7 @@
 #include "threadPool.h"
-
+#include "..\utility\logger.h"
 using namespace web_rpc::thread_poll;
+using namespace web_rpc::utility;
 
 ThreadPool::ThreadPool(/* argsP*/)
 {
@@ -18,6 +19,7 @@ void ThreadPool::init(int nCount)
     {
         Thread *pThread = new WorkerThread();
         // info log 记录 当前创建的线程地址，到时候退出的时候clearUp记录退出线程地址是否一致
+        info("ThreadPool init  thread number %d,addr = %d ",i,pThread);
         pThread->start();
         vec_idle_threadPool.insert(pThread);
     }

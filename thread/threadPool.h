@@ -18,6 +18,23 @@ private:
     ThreadPool(ThreadPool&& other) = delete;
     ~ThreadPool();
 public:
+   void stop(){
+        // busyList pushback
+    mBusyMutex.lock();
+    for (auto& item : vec_busy_threadPool)
+    {
+      item->stop();
+    }
+    mBusyMutex.unLock();
+
+    mIdleMutex.lock();
+    for (auto& item : vec_idle_threadPool)
+    {
+      item->stop();
+    }
+    mIdleMutex.unLock();
+
+   }
   static ThreadPool& GetInstance()
   {
      static ThreadPool stThreadPool;

@@ -24,7 +24,7 @@ public:
     static TaskDispatcher stTaskDisapatcher;
     return stTaskDisapatcher;
    }
-   void init();
+   void initTaskDispatcher();
    void assign(Task* task);
    virtual void run() override;
 

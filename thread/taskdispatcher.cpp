@@ -1,8 +1,11 @@
 #include "taskdispatcher.h"
 #include "signal.h"
 #include <signal.h>
-using namespace web_rpc::thread_poll;
+#include <string.h>
+#include "..\utility\logger.h"
 
+using namespace web_rpc::thread_poll;
+using namespace web_rpc::utility;
 TaskDispatcher::TaskDispatcher(/* args */)
 {
 }
@@ -11,17 +14,20 @@ TaskDispatcher::~TaskDispatcher()
 {
 }
 
-void TaskDispatcher::init()
+void TaskDispatcher::initTaskDispatcher()
 {
     ThreadPool::GetInstance().init(8);
+    debug("task dispatcher init %d threadPool number",8);
     start();
 }
 void TaskDispatcher::assign(Task *task)
 {
+     debug("task dispatcher assign task");
     // 主线程调用、与任务分发线程调用
     AutoMutex lock(&m_mutex);
     m_listTask.push_back(task);
     m_con.signal();
+
 }
 
 void TaskDispatcher::run()
@@ -29,17 +35,13 @@ void TaskDispatcher::run()
 
     // 线程派发任务呗
     // 这里有一个任务队列吧
-    // sigset_t mask;
-    // if (0 != sigfillset(&mask))
-    // {
-    //     //error("thread manager sigfillset failed!");
-    //     return;
-    // }
-    // if (0 != pthread_sigmask(SIG_SETMASK, &mask, NULL))
-    // {
-    //     //error("thread manager pthread_sigmask failed!");
-    //     return;
-    // }
+    unsigned long  mask;
+    memset(&mask, 0xFF, sizeof(unsigned long));
+    if (0 != pthread_sigmask(SIG_SETMASK, &mask, NULL))
+    {
+        error("thread manager pthread_sigmask failed!");
+        return;
+    }
 
     while (true)
     {

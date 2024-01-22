@@ -23,6 +23,7 @@ public:
   void setTask(Task* task);
   Task* getTask();
 protected:
+  virtual void init(){};
   static void* threadFunc(void* arg);
 protected:
   pthread_t m_id{NULL};
