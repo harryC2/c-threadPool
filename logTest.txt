@@ -1,0 +1,442 @@
+2024-01-23 21:32:41 ERROR /home/harry/ch/web_rpc/socket/socket.cpp:47 socket connect error: errno=111 errstr=Connection refused
+2024-01-23 21:33:24 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 0,addr = 1431806624 
+2024-01-23 21:33:24 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 1,addr = 1431807920 
+2024-01-23 21:33:24 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 2,addr = 1431808608 
+2024-01-23 21:33:24 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 3,addr = 1431809296 
+2024-01-23 21:33:24 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 4,addr = 1431809984 
+2024-01-23 21:33:24 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 5,addr = 1431810640 
+2024-01-23 21:33:24 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 6,addr = 1431811696 
+2024-01-23 21:33:24 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 7,addr = 1431812272 
+2024-01-23 21:33:24 DEBUG /home/harry/ch/web_rpc/thread/taskdispatcher.cpp:20 task dispatcher init 8 threadPool number
+2024-01-23 21:33:24 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.h:74 epoll wait time: 0ms
+2024-01-23 21:33:30 ERROR /home/harry/ch/web_rpc/socket/socket.cpp:47 socket connect error: errno=111 errstr=Connection refused
+2024-01-23 21:34:26 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 0,addr = 1431806624 
+2024-01-23 21:34:26 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 1,addr = 1431807920 
+2024-01-23 21:34:26 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 2,addr = 1431808608 
+2024-01-23 21:34:26 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 3,addr = 1431809296 
+2024-01-23 21:34:26 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 4,addr = 1431809984 
+2024-01-23 21:34:26 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 5,addr = 1431810640 
+2024-01-23 21:34:26 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 6,addr = 1431811696 
+2024-01-23 21:34:26 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 7,addr = 1431812272 
+2024-01-23 21:34:26 DEBUG /home/harry/ch/web_rpc/thread/taskdispatcher.cpp:20 task dispatcher init 8 threadPool number
+2024-01-23 21:34:26 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.h:74 epoll wait time: 0ms
+2024-01-23 21:34:41 ERROR /home/harry/ch/web_rpc/socket/socket.cpp:47 socket connect error: errno=111 errstr=Connection refused
+2024-01-23 21:35:02 ERROR /home/harry/ch/web_rpc/socket/socket.cpp:47 socket connect error: errno=111 errstr=Connection refused
+2024-01-23 21:38:18 ERROR /home/harry/ch/web_rpc/socket/socket.cpp:47 socket connect error: errno=111 errstr=Connection refused
+2024-01-23 21:38:29 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 0,addr = -2138402144 
+2024-01-23 21:38:29 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 1,addr = -2138400848 
+2024-01-23 21:38:29 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 2,addr = -2138400160 
+2024-01-23 21:38:29 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 3,addr = -2138399472 
+2024-01-23 21:38:29 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 4,addr = -2138398784 
+2024-01-23 21:38:29 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 5,addr = -2138398096 
+2024-01-23 21:38:29 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 6,addr = -2138397072 
+2024-01-23 21:38:29 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 7,addr = -2138396384 
+2024-01-23 21:38:29 DEBUG /home/harry/ch/web_rpc/thread/taskdispatcher.cpp:20 task dispatcher init 8 threadPool number
+2024-01-23 21:38:30 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.h:74 epoll wait time: 0ms
+2024-01-23 21:38:41 ERROR /home/harry/ch/web_rpc/socket/socket.cpp:47 socket connect error: errno=111 errstr=Connection refused
+2024-01-24 11:43:23 ERROR /home/harry/ch/web_rpc/socket/socket.cpp:47 socket connect error: errno=111 errstr=Connection refused
+2024-01-24 12:07:58 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 0,addr = 1431806624 
+2024-01-24 12:07:58 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 1,addr = 1431807920 
+2024-01-24 12:07:58 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 2,addr = 1431808608 
+2024-01-24 12:07:58 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 3,addr = 1431809296 
+2024-01-24 12:07:58 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 4,addr = 1431809984 
+2024-01-24 12:07:58 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 5,addr = 1431810640 
+2024-01-24 12:07:58 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 6,addr = 1431811696 
+2024-01-24 12:07:58 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 7,addr = 1431812272 
+2024-01-24 12:07:58 DEBUG /home/harry/ch/web_rpc/thread/taskdispatcher.cpp:20 task dispatcher init 8 threadPool number
+2024-01-24 12:07:58 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.h:74 epoll wait time: 0ms
+2024-01-24 12:08:59 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 0,addr = 1431806624 
+2024-01-24 12:08:59 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 1,addr = 1431807920 
+2024-01-24 12:08:59 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 2,addr = 1431808608 
+2024-01-24 12:08:59 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 3,addr = 1431809296 
+2024-01-24 12:08:59 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 4,addr = 1431809984 
+2024-01-24 12:08:59 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 5,addr = 1431810640 
+2024-01-24 12:08:59 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 6,addr = 1431811696 
+2024-01-24 12:08:59 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 7,addr = 1431812272 
+2024-01-24 12:08:59 DEBUG /home/harry/ch/web_rpc/thread/taskdispatcher.cpp:20 task dispatcher init 8 threadPool number
+2024-01-24 12:08:59 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.h:74 epoll wait time: 0ms
+2024-01-24 12:09:13 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.h:88 socket accept event
+2024-01-24 12:13:07 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 0,addr = 1431806624 
+2024-01-24 12:13:07 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 1,addr = 1431807920 
+2024-01-24 12:13:07 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 2,addr = 1431808608 
+2024-01-24 12:13:07 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 3,addr = 1431809296 
+2024-01-24 12:13:07 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 4,addr = 1431809984 
+2024-01-24 12:13:07 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 5,addr = 1431810672 
+2024-01-24 12:13:07 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 6,addr = 1431811696 
+2024-01-24 12:13:07 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 7,addr = 1431812272 
+2024-01-24 12:13:07 DEBUG /home/harry/ch/web_rpc/thread/taskdispatcher.cpp:20 task dispatcher init 8 threadPool number
+2024-01-24 12:13:48 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 0,addr = 1431806624 
+2024-01-24 12:13:48 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 1,addr = 1431807920 
+2024-01-24 12:13:48 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 2,addr = 1431808608 
+2024-01-24 12:13:48 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 3,addr = 1431809296 
+2024-01-24 12:13:48 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 4,addr = 1431809984 
+2024-01-24 12:13:48 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 5,addr = 1431810640 
+2024-01-24 12:13:48 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 6,addr = 1431811696 
+2024-01-24 12:13:48 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 7,addr = 1431812272 
+2024-01-24 12:13:48 DEBUG /home/harry/ch/web_rpc/thread/taskdispatcher.cpp:20 task dispatcher init 8 threadPool number
+2024-01-24 16:22:06 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 0,addr = 1431823008 
+2024-01-24 16:22:06 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 1,addr = 1431824304 
+2024-01-24 16:22:06 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 2,addr = 1431824992 
+2024-01-24 16:22:06 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 3,addr = 1431825680 
+2024-01-24 16:22:06 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 4,addr = 1431826368 
+2024-01-24 16:22:06 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 5,addr = 1431827024 
+2024-01-24 16:22:06 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 6,addr = 1431828080 
+2024-01-24 16:22:06 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 7,addr = 1431828656 
+2024-01-24 16:22:06 DEBUG /home/harry/ch/web_rpc/thread/taskdispatcher.cpp:20 task dispatcher init 8 threadPool number
+2024-01-24 16:22:06 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.h:74 epoll wait time: 0ms
+2024-01-27 17:45:43 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 0,addr = 1431864288 
+2024-01-27 17:45:43 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 1,addr = 1431865584 
+2024-01-27 17:45:43 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 2,addr = 1431866272 
+2024-01-27 17:45:43 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 3,addr = 1431866960 
+2024-01-27 17:45:43 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 4,addr = 1431867648 
+2024-01-27 17:45:43 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 5,addr = 1431868304 
+2024-01-27 17:45:43 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 6,addr = 1431869360 
+2024-01-27 17:45:43 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 7,addr = 1431869936 
+2024-01-27 17:45:43 DEBUG /home/harry/ch/web_rpc/thread/taskdispatcher.cpp:20 task dispatcher init 8 threadPool number
+2024-01-27 17:45:43 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:36 epoll wait time: 0ms
+2024-01-27 17:48:25 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 0,addr = 1431864288 
+2024-01-27 17:48:25 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 1,addr = 1431865584 
+2024-01-27 17:48:25 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 2,addr = 1431866272 
+2024-01-27 17:48:25 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 3,addr = 1431866960 
+2024-01-27 17:48:25 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 4,addr = 1431867648 
+2024-01-27 17:48:25 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 5,addr = 1431868304 
+2024-01-27 17:48:25 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 6,addr = 1431869360 
+2024-01-27 17:48:25 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 7,addr = 1431869936 
+2024-01-27 17:48:25 DEBUG /home/harry/ch/web_rpc/thread/taskdispatcher.cpp:20 task dispatcher init 8 threadPool number
+2024-01-27 17:48:25 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:36 epoll wait time: 0ms
+2024-01-27 17:52:18 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 0,addr = 1431864288 
+2024-01-27 17:52:18 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 1,addr = 1431865584 
+2024-01-27 17:52:18 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 2,addr = 1431866272 
+2024-01-27 17:52:18 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 3,addr = 1431866960 
+2024-01-27 17:52:18 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 4,addr = 1431867648 
+2024-01-27 17:52:18 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 5,addr = 1431868304 
+2024-01-27 17:52:18 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 6,addr = 1431869360 
+2024-01-27 17:52:18 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 7,addr = 1431869936 
+2024-01-27 17:52:18 DEBUG /home/harry/ch/web_rpc/thread/taskdispatcher.cpp:20 task dispatcher init 8 threadPool number
+2024-01-27 17:52:18 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:36 epoll wait time: 0ms
+2024-01-27 18:20:51 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 0,addr = 1431864288 
+2024-01-27 18:20:51 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 1,addr = 1431865584 
+2024-01-27 18:20:51 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 2,addr = 1431866272 
+2024-01-27 18:20:51 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 3,addr = 1431866960 
+2024-01-27 18:20:51 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 4,addr = 1431867648 
+2024-01-27 18:20:51 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 5,addr = 1431868304 
+2024-01-27 18:20:51 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 6,addr = 1431869360 
+2024-01-27 18:20:51 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 7,addr = 1431869936 
+2024-01-27 18:20:51 DEBUG /home/harry/ch/web_rpc/thread/taskdispatcher.cpp:20 task dispatcher init 8 threadPool number
+2024-01-27 18:20:51 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:36 epoll wait time: 0ms
+2024-01-27 18:27:38 ERROR /home/harry/ch/web_rpc/socket/socket.cpp:48 socket connect error: errno=111 errstr=Connection refused
+2024-01-27 18:31:14 ERROR /home/harry/ch/web_rpc/socket/socket.cpp:48 socket connect error: errno=111 errstr=Connection refused
+2024-01-27 18:58:09 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 0,addr = 1431864288 
+2024-01-27 18:58:09 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 1,addr = 1431865584 
+2024-01-27 18:58:09 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 2,addr = 1431866272 
+2024-01-27 18:58:09 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 3,addr = 1431866960 
+2024-01-27 18:58:09 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 4,addr = 1431867648 
+2024-01-27 18:58:09 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 5,addr = 1431868304 
+2024-01-27 18:58:09 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 6,addr = 1431869360 
+2024-01-27 18:58:09 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 7,addr = 1431869936 
+2024-01-27 18:58:09 DEBUG /home/harry/ch/web_rpc/thread/taskdispatcher.cpp:20 task dispatcher init 8 threadPool number
+2024-01-27 18:58:09 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:36 epoll wait time: 0ms
+2024-01-28 11:53:42 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 0,addr = 828617696 
+2024-01-28 11:53:42 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 1,addr = 828618992 
+2024-01-28 11:53:42 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 2,addr = 828619680 
+2024-01-28 11:53:42 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 3,addr = 828620368 
+2024-01-28 11:53:42 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 4,addr = 828621056 
+2024-01-28 11:53:42 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 5,addr = 828621712 
+2024-01-28 11:53:42 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 6,addr = 828622768 
+2024-01-28 11:53:42 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 7,addr = 828623344 
+2024-01-28 11:53:42 DEBUG /home/harry/ch/web_rpc/thread/taskdispatcher.cpp:20 task dispatcher init 8 threadPool number
+2024-01-28 11:53:42 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:36 epoll wait time: 0ms
+2024-01-28 11:54:08 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:50 socket accept event
+2024-01-28 11:54:08 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:81 socket read event
+2024-01-28 11:54:08 DEBUG /home/harry/ch/web_rpc/thread/taskdispatcher.cpp:25 task dispatcher assign task
+2024-01-28 11:54:08 DEBUG /home/harry/ch/web_rpc/task/workTask.cpp:30 work task run
+2024-01-28 11:54:08 INFO /home/harry/ch/web_rpc/task/workTask.cpp:72 recv msg head len: 16, flag: work, cmd: 0, body len: 22
+2024-01-28 11:54:08 INFO /home/harry/ch/web_rpc/task/workTask.cpp:113 recv msg body len: 22, msg data: 
+2024-01-28 12:02:00 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 0,addr = 1431880832 
+2024-01-28 12:02:00 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 1,addr = 1431882128 
+2024-01-28 12:02:00 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 2,addr = 1431882816 
+2024-01-28 12:02:00 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 3,addr = 1431883504 
+2024-01-28 12:02:00 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 4,addr = 1431884192 
+2024-01-28 12:02:00 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 5,addr = 1431884848 
+2024-01-28 12:02:00 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 6,addr = 1431885904 
+2024-01-28 12:02:00 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 7,addr = 1431886480 
+2024-01-28 12:02:00 DEBUG /home/harry/ch/web_rpc/thread/taskdispatcher.cpp:20 task dispatcher init 8 threadPool number
+2024-01-28 12:02:00 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:36 epoll wait time: 0ms
+2024-01-28 12:02:21 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:50 socket accept event
+2024-01-28 12:02:21 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:81 socket read event
+2024-01-28 12:02:21 DEBUG /home/harry/ch/web_rpc/thread/taskdispatcher.cpp:25 task dispatcher assign task
+2024-01-28 12:02:21 DEBUG /home/harry/ch/web_rpc/task/workTask.cpp:30 work task run
+2024-01-28 12:02:21 INFO /home/harry/ch/web_rpc/task/workTask.cpp:72 recv msg head len: 16, flag: work, cmd: 0, body len: 22
+2024-01-28 12:02:21 INFO /home/harry/ch/web_rpc/task/workTask.cpp:113 recv msg body len: 22, msg data: 
+2024-01-28 12:03:03 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:50 socket accept event
+2024-01-28 12:03:03 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:81 socket read event
+2024-01-28 12:03:03 DEBUG /home/harry/ch/web_rpc/thread/taskdispatcher.cpp:25 task dispatcher assign task
+2024-01-28 12:03:03 DEBUG /home/harry/ch/web_rpc/task/workTask.cpp:30 work task run
+2024-01-28 12:03:03 INFO /home/harry/ch/web_rpc/task/workTask.cpp:72 recv msg head len: 16, flag: work, cmd: 0, body len: 22
+2024-01-28 12:03:03 INFO /home/harry/ch/web_rpc/task/workTask.cpp:113 recv msg body len: 22, msg data: 
+2024-01-28 12:05:10 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 0,addr = 624948352 
+2024-01-28 12:05:10 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 1,addr = 624949648 
+2024-01-28 12:05:10 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 2,addr = 624950336 
+2024-01-28 12:05:10 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 3,addr = 624951024 
+2024-01-28 12:05:10 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 4,addr = 624951712 
+2024-01-28 12:05:10 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 5,addr = 624952368 
+2024-01-28 12:05:10 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 6,addr = 624953424 
+2024-01-28 12:05:10 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 7,addr = 624954000 
+2024-01-28 12:05:10 DEBUG /home/harry/ch/web_rpc/thread/taskdispatcher.cpp:20 task dispatcher init 8 threadPool number
+2024-01-28 12:05:10 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:36 epoll wait time: 0ms
+2024-01-28 12:05:54 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:50 socket accept event
+2024-01-28 12:06:14 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:81 socket read event
+2024-01-28 12:06:14 DEBUG /home/harry/ch/web_rpc/thread/taskdispatcher.cpp:25 task dispatcher assign task
+2024-01-28 12:06:14 DEBUG /home/harry/ch/web_rpc/task/workTask.cpp:30 work task run
+2024-01-28 12:06:14 INFO /home/harry/ch/web_rpc/task/workTask.cpp:72 recv msg head len: 16, flag: work, cmd: 0, body len: 22
+2024-01-28 12:06:14 INFO /home/harry/ch/web_rpc/task/workTask.cpp:113 recv msg body len: 22, msg data: 
+2024-01-28 12:07:13 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:50 socket accept event
+2024-01-28 12:07:24 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:81 socket read event
+2024-01-28 12:07:24 DEBUG /home/harry/ch/web_rpc/thread/taskdispatcher.cpp:25 task dispatcher assign task
+2024-01-28 12:07:24 DEBUG /home/harry/ch/web_rpc/task/workTask.cpp:30 work task run
+2024-01-28 12:07:24 INFO /home/harry/ch/web_rpc/task/workTask.cpp:72 recv msg head len: 16, flag: work, cmd: 0, body len: 22
+2024-01-28 12:07:24 INFO /home/harry/ch/web_rpc/task/workTask.cpp:113 recv msg body len: 22, msg data: 
+2024-01-28 12:07:57 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:50 socket accept event
+2024-01-28 12:08:05 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:81 socket read event
+2024-01-28 12:08:05 DEBUG /home/harry/ch/web_rpc/thread/taskdispatcher.cpp:25 task dispatcher assign task
+2024-01-28 12:08:05 DEBUG /home/harry/ch/web_rpc/task/workTask.cpp:30 work task run
+2024-01-28 12:08:05 INFO /home/harry/ch/web_rpc/task/workTask.cpp:72 recv msg head len: 16, flag: work, cmd: 0, body len: 22
+2024-01-28 12:08:05 INFO /home/harry/ch/web_rpc/task/workTask.cpp:113 recv msg body len: 22, msg data: 
+2024-01-28 12:12:53 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 0,addr = 1431880832 
+2024-01-28 12:12:53 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 1,addr = 1431882128 
+2024-01-28 12:12:53 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 2,addr = 1431882816 
+2024-01-28 12:12:53 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 3,addr = 1431883504 
+2024-01-28 12:12:53 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 4,addr = 1431884192 
+2024-01-28 12:12:53 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 5,addr = 1431884848 
+2024-01-28 12:12:53 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 6,addr = 1431885904 
+2024-01-28 12:12:53 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 7,addr = 1431886480 
+2024-01-28 12:12:53 DEBUG /home/harry/ch/web_rpc/thread/taskdispatcher.cpp:20 task dispatcher init 8 threadPool number
+2024-01-28 12:12:53 ERROR /home/harry/ch/web_rpc/socket/socket.cpp:22 socket bind error: errno=98 errstr=Address already in use
+2024-01-28 12:12:53 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:36 epoll wait time: 0ms
+2024-01-28 12:13:09 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:50 socket accept event
+2024-01-28 12:13:09 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:81 socket read event
+2024-01-28 12:13:09 DEBUG /home/harry/ch/web_rpc/thread/taskdispatcher.cpp:25 task dispatcher assign task
+2024-01-28 12:13:09 DEBUG /home/harry/ch/web_rpc/task/workTask.cpp:30 work task run
+2024-01-28 12:13:09 INFO /home/harry/ch/web_rpc/task/workTask.cpp:72 recv msg head len: 16, flag: work, cmd: 0, body len: 22
+2024-01-28 12:13:09 INFO /home/harry/ch/web_rpc/task/workTask.cpp:113 recv msg body len: 22, msg data: 
+2024-01-28 12:13:38 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:50 socket accept event
+2024-01-28 12:13:38 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:81 socket read event
+2024-01-28 12:13:38 DEBUG /home/harry/ch/web_rpc/thread/taskdispatcher.cpp:25 task dispatcher assign task
+2024-01-28 12:13:38 DEBUG /home/harry/ch/web_rpc/task/workTask.cpp:30 work task run
+2024-01-28 12:13:38 INFO /home/harry/ch/web_rpc/task/workTask.cpp:72 recv msg head len: 16, flag: work, cmd: 0, body len: 22
+2024-01-28 12:13:38 INFO /home/harry/ch/web_rpc/task/workTask.cpp:113 recv msg body len: 22, msg data: 
+2024-01-28 12:14:18 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 0,addr = 1431880832 
+2024-01-28 12:14:18 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 1,addr = 1431882128 
+2024-01-28 12:14:18 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 2,addr = 1431882816 
+2024-01-28 12:14:18 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 3,addr = 1431883504 
+2024-01-28 12:14:18 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 4,addr = 1431884192 
+2024-01-28 12:14:18 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 5,addr = 1431884848 
+2024-01-28 12:14:18 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 6,addr = 1431885904 
+2024-01-28 12:14:18 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 7,addr = 1431886480 
+2024-01-28 12:14:18 DEBUG /home/harry/ch/web_rpc/thread/taskdispatcher.cpp:20 task dispatcher init 8 threadPool number
+2024-01-28 12:14:18 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:36 epoll wait time: 0ms
+2024-01-28 12:14:25 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:50 socket accept event
+2024-01-28 12:14:25 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:81 socket read event
+2024-01-28 12:14:25 DEBUG /home/harry/ch/web_rpc/thread/taskdispatcher.cpp:25 task dispatcher assign task
+2024-01-28 12:14:25 DEBUG /home/harry/ch/web_rpc/task/workTask.cpp:30 work task run
+2024-01-28 12:14:25 INFO /home/harry/ch/web_rpc/task/workTask.cpp:72 recv msg head len: 16, flag: work, cmd: 0, body len: 22
+2024-01-28 12:14:25 INFO /home/harry/ch/web_rpc/task/workTask.cpp:113 recv msg body len: 22, msg data: 
+2024-01-28 12:16:31 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 0,addr = 1431880832 
+2024-01-28 12:16:31 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 1,addr = 1431882128 
+2024-01-28 12:16:31 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 2,addr = 1431882816 
+2024-01-28 12:16:31 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 3,addr = 1431883504 
+2024-01-28 12:16:31 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 4,addr = 1431884192 
+2024-01-28 12:16:31 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 5,addr = 1431884848 
+2024-01-28 12:16:31 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 6,addr = 1431885904 
+2024-01-28 12:16:31 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 7,addr = 1431886480 
+2024-01-28 12:16:31 DEBUG /home/harry/ch/web_rpc/thread/taskdispatcher.cpp:20 task dispatcher init 8 threadPool number
+2024-01-28 12:16:31 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:36 epoll wait time: 0ms
+2024-01-28 12:16:48 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:50 socket accept event
+2024-01-28 12:16:48 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:81 socket read event
+2024-01-28 12:16:48 DEBUG /home/harry/ch/web_rpc/thread/taskdispatcher.cpp:25 task dispatcher assign task
+2024-01-28 12:16:48 DEBUG /home/harry/ch/web_rpc/task/workTask.cpp:30 work task run
+2024-01-28 12:16:48 INFO /home/harry/ch/web_rpc/task/workTask.cpp:72 recv msg head len: 16, flag: work, cmd: 0, body len: 22
+2024-01-28 12:16:48 INFO /home/harry/ch/web_rpc/task/workTask.cpp:113 recv msg body len: 22, msg data: 
+2024-01-28 12:19:16 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 0,addr = 1431884928 
+2024-01-28 12:19:16 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 1,addr = 1431886224 
+2024-01-28 12:19:16 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 2,addr = 1431886912 
+2024-01-28 12:19:16 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 3,addr = 1431887600 
+2024-01-28 12:19:16 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 4,addr = 1431888288 
+2024-01-28 12:19:16 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 5,addr = 1431888944 
+2024-01-28 12:19:16 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 6,addr = 1431890000 
+2024-01-28 12:19:16 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 7,addr = 1431890576 
+2024-01-28 12:19:16 DEBUG /home/harry/ch/web_rpc/thread/taskdispatcher.cpp:20 task dispatcher init 8 threadPool number
+2024-01-28 12:19:16 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:36 epoll wait time: 0ms
+2024-01-28 12:19:21 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:50 socket accept event
+2024-01-28 12:19:21 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:81 socket read event
+2024-01-28 12:19:21 DEBUG /home/harry/ch/web_rpc/thread/taskdispatcher.cpp:25 task dispatcher assign task
+2024-01-28 12:19:21 DEBUG /home/harry/ch/web_rpc/task/workTask.cpp:30 work task run
+2024-01-28 12:19:21 INFO /home/harry/ch/web_rpc/task/workTask.cpp:72 recv msg head len: 16, flag: work, cmd: 0, body len: 22
+2024-01-28 12:19:21 INFO /home/harry/ch/web_rpc/task/workTask.cpp:113 recv msg body len: 22, msg data: 
+2024-01-28 12:22:30 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 0,addr = 247633024 
+2024-01-28 12:22:30 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 1,addr = 247634320 
+2024-01-28 12:22:30 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 2,addr = 247635008 
+2024-01-28 12:22:30 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 3,addr = 247635696 
+2024-01-28 12:22:30 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 4,addr = 247636384 
+2024-01-28 12:22:30 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 5,addr = 247637072 
+2024-01-28 12:22:30 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 6,addr = 247638096 
+2024-01-28 12:22:30 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 7,addr = 247638784 
+2024-01-28 12:22:30 DEBUG /home/harry/ch/web_rpc/thread/taskdispatcher.cpp:20 task dispatcher init 8 threadPool number
+2024-01-28 12:22:30 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:36 epoll wait time: 0ms
+2024-01-28 12:22:33 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:50 socket accept event
+2024-01-28 12:22:33 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:81 socket read event
+2024-01-28 12:22:33 DEBUG /home/harry/ch/web_rpc/thread/taskdispatcher.cpp:25 task dispatcher assign task
+2024-01-28 12:22:33 DEBUG /home/harry/ch/web_rpc/task/workTask.cpp:30 work task run
+2024-01-28 12:22:33 INFO /home/harry/ch/web_rpc/task/workTask.cpp:72 recv msg head len: 16, flag: work, cmd: 0, body len: 22
+2024-01-28 12:22:33 INFO /home/harry/ch/web_rpc/task/workTask.cpp:113 recv msg body len: 22, msg data: 
+2024-01-28 12:23:07 ERROR /home/harry/ch/web_rpc/socket/socket.cpp:48 socket connect error: errno=111 errstr=Connection refused
+2024-01-28 12:23:14 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 0,addr = 1031693440 
+2024-01-28 12:23:14 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 1,addr = 1031694736 
+2024-01-28 12:23:14 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 2,addr = 1031695424 
+2024-01-28 12:23:14 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 3,addr = 1031696112 
+2024-01-28 12:23:14 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 4,addr = 1031696800 
+2024-01-28 12:23:14 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 5,addr = 1031697456 
+2024-01-28 12:23:14 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 6,addr = 1031698512 
+2024-01-28 12:23:14 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 7,addr = 1031699088 
+2024-01-28 12:23:14 DEBUG /home/harry/ch/web_rpc/thread/taskdispatcher.cpp:20 task dispatcher init 8 threadPool number
+2024-01-28 12:23:14 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:36 epoll wait time: 0ms
+2024-01-28 12:23:16 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:50 socket accept event
+2024-01-28 12:23:16 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:81 socket read event
+2024-01-28 12:23:16 DEBUG /home/harry/ch/web_rpc/thread/taskdispatcher.cpp:25 task dispatcher assign task
+2024-01-28 12:23:16 DEBUG /home/harry/ch/web_rpc/task/workTask.cpp:30 work task run
+2024-01-28 12:23:16 INFO /home/harry/ch/web_rpc/task/workTask.cpp:72 recv msg head len: 16, flag: work, cmd: 0, body len: 22
+2024-01-28 12:23:16 INFO /home/harry/ch/web_rpc/task/workTask.cpp:113 recv msg body len: 22, msg data: 
+2024-01-28 12:24:14 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 0,addr = 1431884928 
+2024-01-28 12:24:14 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 1,addr = 1431886224 
+2024-01-28 12:24:14 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 2,addr = 1431886912 
+2024-01-28 12:24:14 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 3,addr = 1431887600 
+2024-01-28 12:24:14 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 4,addr = 1431888288 
+2024-01-28 12:24:14 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 5,addr = 1431888944 
+2024-01-28 12:24:14 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 6,addr = 1431890000 
+2024-01-28 12:24:14 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 7,addr = 1431890576 
+2024-01-28 12:24:14 DEBUG /home/harry/ch/web_rpc/thread/taskdispatcher.cpp:20 task dispatcher init 8 threadPool number
+2024-01-28 12:24:14 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:36 epoll wait time: 0ms
+2024-01-28 12:24:22 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:50 socket accept event
+2024-01-28 12:24:22 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:81 socket read event
+2024-01-28 12:24:22 DEBUG /home/harry/ch/web_rpc/thread/taskdispatcher.cpp:25 task dispatcher assign task
+2024-01-28 12:24:22 DEBUG /home/harry/ch/web_rpc/task/workTask.cpp:30 work task run
+2024-01-28 12:24:22 INFO /home/harry/ch/web_rpc/task/workTask.cpp:72 recv msg head len: 16, flag: work, cmd: 0, body len: 22
+2024-01-28 12:24:22 INFO /home/harry/ch/web_rpc/task/workTask.cpp:113 recv msg body len: 22, msg data: 
+2024-01-28 12:26:29 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 0,addr = 1431884928 
+2024-01-28 12:26:29 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 1,addr = 1431886224 
+2024-01-28 12:26:29 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 2,addr = 1431886912 
+2024-01-28 12:26:29 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 3,addr = 1431887600 
+2024-01-28 12:26:29 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 4,addr = 1431888288 
+2024-01-28 12:26:29 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 5,addr = 1431888944 
+2024-01-28 12:26:29 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 6,addr = 1431890000 
+2024-01-28 12:26:29 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 7,addr = 1431890576 
+2024-01-28 12:26:29 DEBUG /home/harry/ch/web_rpc/thread/taskdispatcher.cpp:20 task dispatcher init 8 threadPool number
+2024-01-28 12:26:29 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:36 epoll wait time: 0ms
+2024-01-28 12:26:33 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:50 socket accept event
+2024-01-28 12:26:33 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:81 socket read event
+2024-01-28 12:26:33 DEBUG /home/harry/ch/web_rpc/thread/taskdispatcher.cpp:25 task dispatcher assign task
+2024-01-28 12:26:33 DEBUG /home/harry/ch/web_rpc/task/workTask.cpp:30 work task run
+2024-01-28 12:26:33 INFO /home/harry/ch/web_rpc/task/workTask.cpp:72 recv msg head len: 16, flag: work, cmd: 0, body len: 22
+2024-01-28 12:26:33 INFO /home/harry/ch/web_rpc/task/workTask.cpp:113 recv msg body len: 22, msg data: 
+2024-01-28 12:26:33 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:81 socket read event
+2024-01-28 12:26:33 DEBUG /home/harry/ch/web_rpc/thread/taskdispatcher.cpp:25 task dispatcher assign task
+2024-01-28 12:26:33 DEBUG /home/harry/ch/web_rpc/task/workTask.cpp:30 work task run
+2024-01-28 12:26:33 INFO /home/harry/ch/web_rpc/task/workTask.cpp:72 recv msg head len: 16, flag: work, cmd: 0, body len: 19
+2024-01-28 12:26:33 INFO /home/harry/ch/web_rpc/task/workTask.cpp:113 recv msg body len: 19, msg data: 
+2024-01-28 12:26:33 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:81 socket read event
+2024-01-28 12:26:33 DEBUG /home/harry/ch/web_rpc/thread/taskdispatcher.cpp:25 task dispatcher assign task
+2024-01-28 12:26:33 DEBUG /home/harry/ch/web_rpc/task/workTask.cpp:30 work task run
+2024-01-28 12:26:33 INFO /home/harry/ch/web_rpc/task/workTask.cpp:72 recv msg head len: 16, flag: work, cmd: 0, body len: 23
+2024-01-28 12:26:33 INFO /home/harry/ch/web_rpc/task/workTask.cpp:113 recv msg body len: 23, msg data: 
+2024-01-28 12:30:33 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 0,addr = 1431884928 
+2024-01-28 12:30:33 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 1,addr = 1431886224 
+2024-01-28 12:30:33 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 2,addr = 1431886912 
+2024-01-28 12:30:33 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 3,addr = 1431887600 
+2024-01-28 12:30:33 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 4,addr = 1431888288 
+2024-01-28 12:30:33 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 5,addr = 1431888944 
+2024-01-28 12:30:33 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 6,addr = 1431890000 
+2024-01-28 12:30:33 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 7,addr = 1431890576 
+2024-01-28 12:30:33 DEBUG /home/harry/ch/web_rpc/thread/taskdispatcher.cpp:20 task dispatcher init 8 threadPool number
+2024-01-28 12:30:33 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:36 epoll wait time: 0ms
+2024-01-28 12:31:01 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 0,addr = 1431884928 
+2024-01-28 12:31:01 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 1,addr = 1431886224 
+2024-01-28 12:31:01 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 2,addr = 1431886912 
+2024-01-28 12:31:01 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 3,addr = 1431887600 
+2024-01-28 12:31:01 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 4,addr = 1431888288 
+2024-01-28 12:31:01 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 5,addr = 1431888944 
+2024-01-28 12:31:01 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 6,addr = 1431890000 
+2024-01-28 12:31:01 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 7,addr = 1431890576 
+2024-01-28 12:31:01 DEBUG /home/harry/ch/web_rpc/thread/taskdispatcher.cpp:20 task dispatcher init 8 threadPool number
+2024-01-28 12:31:01 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:36 epoll wait time: 0ms
+2024-01-28 12:31:03 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:50 socket accept event
+2024-01-28 12:31:03 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:81 socket read event
+2024-01-28 12:31:03 DEBUG /home/harry/ch/web_rpc/thread/taskdispatcher.cpp:25 task dispatcher assign task
+2024-01-28 12:31:03 DEBUG /home/harry/ch/web_rpc/task/workTask.cpp:30 work task run
+2024-01-28 12:31:03 INFO /home/harry/ch/web_rpc/task/workTask.cpp:72 recv msg head len: 16, flag: work, cmd: 0, body len: 22
+2024-01-28 12:31:03 INFO /home/harry/ch/web_rpc/task/workTask.cpp:113 recv msg body len: 22, msg data: 
+2024-01-28 12:31:06 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:81 socket read event
+2024-01-28 12:31:06 DEBUG /home/harry/ch/web_rpc/thread/taskdispatcher.cpp:25 task dispatcher assign task
+2024-01-28 12:31:06 DEBUG /home/harry/ch/web_rpc/task/workTask.cpp:30 work task run
+2024-01-28 12:31:06 INFO /home/harry/ch/web_rpc/task/workTask.cpp:72 recv msg head len: 16, flag: work, cmd: 0, body len: 19
+2024-01-28 12:31:06 INFO /home/harry/ch/web_rpc/task/workTask.cpp:113 recv msg body len: 19, msg data: 
+2024-01-28 12:31:11 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:81 socket read event
+2024-01-28 12:31:11 DEBUG /home/harry/ch/web_rpc/thread/taskdispatcher.cpp:25 task dispatcher assign task
+2024-01-28 12:31:11 DEBUG /home/harry/ch/web_rpc/task/workTask.cpp:30 work task run
+2024-01-28 12:31:11 INFO /home/harry/ch/web_rpc/task/workTask.cpp:72 recv msg head len: 16, flag: work, cmd: 0, body len: 23
+2024-01-28 12:31:11 INFO /home/harry/ch/web_rpc/task/workTask.cpp:113 recv msg body len: 23, msg data: 
+2024-01-28 12:31:46 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 0,addr = 1431884928 
+2024-01-28 12:31:46 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 1,addr = 1431886224 
+2024-01-28 12:31:46 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 2,addr = 1431886912 
+2024-01-28 12:31:46 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 3,addr = 1431887600 
+2024-01-28 12:31:46 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 4,addr = 1431888288 
+2024-01-28 12:31:46 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 5,addr = 1431888944 
+2024-01-28 12:31:46 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 6,addr = 1431890000 
+2024-01-28 12:31:46 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 7,addr = 1431890576 
+2024-01-28 12:31:46 DEBUG /home/harry/ch/web_rpc/thread/taskdispatcher.cpp:20 task dispatcher init 8 threadPool number
+2024-01-28 12:31:46 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:36 epoll wait time: 0ms
+2024-01-28 12:31:57 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:50 socket accept event
+2024-01-28 12:31:57 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:81 socket read event
+2024-01-28 12:31:57 DEBUG /home/harry/ch/web_rpc/thread/taskdispatcher.cpp:25 task dispatcher assign task
+2024-01-28 12:31:57 DEBUG /home/harry/ch/web_rpc/task/workTask.cpp:30 work task run
+2024-01-28 12:31:57 INFO /home/harry/ch/web_rpc/task/workTask.cpp:72 recv msg head len: 16, flag: work, cmd: 0, body len: 22
+2024-01-28 12:31:57 INFO /home/harry/ch/web_rpc/task/workTask.cpp:113 recv msg body len: 22, msg data: 
+2024-01-28 12:32:06 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:81 socket read event
+2024-01-28 12:32:06 DEBUG /home/harry/ch/web_rpc/thread/taskdispatcher.cpp:25 task dispatcher assign task
+2024-01-28 12:32:06 DEBUG /home/harry/ch/web_rpc/task/workTask.cpp:30 work task run
+2024-01-28 12:32:06 INFO /home/harry/ch/web_rpc/task/workTask.cpp:72 recv msg head len: 16, flag: work, cmd: 0, body len: 19
+2024-01-28 12:32:06 INFO /home/harry/ch/web_rpc/task/workTask.cpp:113 recv msg body len: 19, msg data: 
+2024-01-28 12:32:13 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:81 socket read event
+2024-01-28 12:32:13 DEBUG /home/harry/ch/web_rpc/thread/taskdispatcher.cpp:25 task dispatcher assign task
+2024-01-28 12:32:13 DEBUG /home/harry/ch/web_rpc/task/workTask.cpp:30 work task run
+2024-01-28 12:32:13 INFO /home/harry/ch/web_rpc/task/workTask.cpp:72 recv msg head len: 16, flag: work, cmd: 0, body len: 23
+2024-01-28 12:32:13 INFO /home/harry/ch/web_rpc/task/workTask.cpp:113 recv msg body len: 23, msg data: 
+2024-01-28 12:37:56 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 0,addr = 1431884928 
+2024-01-28 12:37:56 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 1,addr = 1431886224 
+2024-01-28 12:37:56 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 2,addr = 1431886912 
+2024-01-28 12:37:56 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 3,addr = 1431887600 
+2024-01-28 12:37:56 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 4,addr = 1431888288 
+2024-01-28 12:37:56 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 5,addr = 1431888944 
+2024-01-28 12:37:56 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 6,addr = 1431890000 
+2024-01-28 12:37:56 INFO /home/harry/ch/web_rpc/thread/threadPool.cpp:22 ThreadPool init  thread number 7,addr = 1431890576 
+2024-01-28 12:37:56 DEBUG /home/harry/ch/web_rpc/thread/taskdispatcher.cpp:20 task dispatcher init 8 threadPool number
+2024-01-28 12:37:56 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:36 epoll wait time: 0ms
+2024-01-28 12:38:01 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:50 socket accept event
+2024-01-28 12:38:01 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:81 socket read event
+2024-01-28 12:38:01 DEBUG /home/harry/ch/web_rpc/thread/taskdispatcher.cpp:25 task dispatcher assign task
+2024-01-28 12:38:01 DEBUG /home/harry/ch/web_rpc/task/workTask.cpp:30 work task run
+2024-01-28 12:38:01 INFO /home/harry/ch/web_rpc/task/workTask.cpp:72 recv msg head len: 16, flag: work, cmd: 0, body len: 22
+2024-01-28 12:38:01 INFO /home/harry/ch/web_rpc/task/workTask.cpp:113 recv msg body len: 22, msg data: 
+2024-01-28 12:38:01 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:81 socket read event
+2024-01-28 12:38:01 DEBUG /home/harry/ch/web_rpc/thread/taskdispatcher.cpp:25 task dispatcher assign task
+2024-01-28 12:38:01 DEBUG /home/harry/ch/web_rpc/task/workTask.cpp:30 work task run
+2024-01-28 12:38:01 INFO /home/harry/ch/web_rpc/task/workTask.cpp:72 recv msg head len: 16, flag: work, cmd: 0, body len: 19
+2024-01-28 12:38:01 INFO /home/harry/ch/web_rpc/task/workTask.cpp:113 recv msg body len: 19, msg data: 
+2024-01-28 12:38:01 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:81 socket read event
+2024-01-28 12:38:01 DEBUG /home/harry/ch/web_rpc/thread/taskdispatcher.cpp:25 task dispatcher assign task
+2024-01-28 12:38:01 DEBUG /home/harry/ch/web_rpc/task/workTask.cpp:30 work task run
+2024-01-28 12:38:01 INFO /home/harry/ch/web_rpc/task/workTask.cpp:72 recv msg head len: 16, flag: work, cmd: 0, body len: 23
+2024-01-28 12:38:01 INFO /home/harry/ch/web_rpc/task/workTask.cpp:113 recv msg body len: 23, msg data: 
+2024-01-28 12:38:01 DEBUG /home/harry/ch/web_rpc/socket/socketHandler.cpp:81 socket read event
+2024-01-28 12:38:01 DEBUG /home/harry/ch/web_rpc/thread/taskdispatcher.cpp:25 task dispatcher assign task
+2024-01-28 12:38:01 DEBUG /home/harry/ch/web_rpc/task/workTask.cpp:30 work task run
+2024-01-28 12:38:01 WARN /home/harry/ch/web_rpc/task/workTask.cpp:44 socket cloasr by peer
