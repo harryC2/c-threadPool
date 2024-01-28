@@ -4,7 +4,9 @@
 */
 #pragma once
 #include "logger.h"
-#include "..\thread\thread.h"
+#include "../thread/thread.h"
+#include <string>
+#include "pthread.h"
 #include <list>
 
 
@@ -24,7 +26,7 @@ public:
     void init()
     {
       // 打开文件 创建输入输出流
-      loggerHandle.open("./logTest.cpp");
+      loggerHandle.open("./logTest.txt");
     }
     void postLogMes(StLogMessage* pLogMessage)
     {
@@ -35,13 +37,13 @@ public:
     }
     virtual void run() override
     {
-    unsigned long  mask;
-    memset(&mask, 0xFF, sizeof(unsigned long));
-    if (0 != pthread_sigmask(SIG_SETMASK, &mask, NULL))
-    {
-        error("thread manager pthread_sigmask failed!");
-        return;
-    }
+        // unsigned long mask;
+        // memset(&mask, 0xFF, sizeof(unsigned long));
+        // if (0 != pthread_sigmask(SIG_SETMASK, &mask, NULL))
+        // {
+        //     error("thread manager pthread_sigmask failed!");
+        //     return;
+        // }
 
         while (true)
         {

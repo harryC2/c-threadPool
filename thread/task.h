@@ -11,7 +11,8 @@ namespace thread_poll{
 class Task{
 public:
   Task(){};
-  ~Task(){};
+  Task(void * data):m_data(data){};
+  virtual ~Task(){};
 
   void set_data(void* data);
   void* get_data();

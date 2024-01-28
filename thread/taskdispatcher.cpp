@@ -2,8 +2,8 @@
 #include "signal.h"
 #include <signal.h>
 #include <string.h>
-#include "..\utility\logger.h"
-
+#include "../utility/logger.h"
+#include "pthread.h"
 using namespace web_rpc::thread_poll;
 using namespace web_rpc::utility;
 TaskDispatcher::TaskDispatcher(/* args */)
@@ -35,13 +35,13 @@ void TaskDispatcher::run()
 
     // 线程派发任务呗
     // 这里有一个任务队列吧
-    unsigned long  mask;
-    memset(&mask, 0xFF, sizeof(unsigned long));
-    if (0 != pthread_sigmask(SIG_SETMASK, &mask, NULL))
-    {
-        error("thread manager pthread_sigmask failed!");
-        return;
-    }
+    // unsigned long  mask;
+    // memset(&mask, 0xFF, sizeof(unsigned long));
+    // if (0 != pthread_sigmask(SIG_SETMASK, &mask, NULL))
+    // {
+    //     error("thread manager pthread_sigmask failed!");
+    //     return;
+    // }
 
     while (true)
     {

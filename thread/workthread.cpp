@@ -1,8 +1,9 @@
 #include "workthread.h"
-#include "threadpool.h"
+#include "threadPool.h"
 #include <string.h>
-#include "..\utility\logger.h"
+#include "../utility/logger.h"
 #include <iostream>
+#include "pthread.h"
 using namespace web_rpc::thread_poll;
 using namespace web_rpc::utility;
 
@@ -38,13 +39,13 @@ void WorkerThread::run()
     // {
     //     // error log worker thread pthread_sigmask faile!
     // }
-    unsigned long  mask;
-    memset(&mask, 0xFF, sizeof(unsigned long));
-    if (0 != pthread_sigmask(SIG_SETMASK, &mask, NULL))
-    {
-        error("thread manager pthread_sigmask failed!");
-        return;
-    }
+    // unsigned long mask;
+    // memset(&mask, 0xFF, sizeof(unsigned long));
+    // if (0 != pthread_sigmask(SIG_SETMASK, &mask, NULL))
+    // {
+    //     error("thread manager pthread_sigmask failed!");
+    //     return;
+    // }
 
     pthread_cleanup_push(clearUp, this);
     // 线程运行函数
