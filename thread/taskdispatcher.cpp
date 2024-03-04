@@ -14,9 +14,9 @@ TaskDispatcher::~TaskDispatcher()
 {
 }
 
-void TaskDispatcher::initTaskDispatcher()
+void TaskDispatcher::initTaskDispatcher(int threads)
 {
-    ThreadPool::GetInstance().init(8);
+    ThreadPool::GetInstance().init(threads);
     debug("task dispatcher init %d threadPool number",8);
     start();
 }

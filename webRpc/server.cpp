@@ -2,6 +2,8 @@
 using namespace web_rpc::webrpc;
 
 #include "../utility/logger.h"
+#include "../utility/inifile.h"
+#include "../utility/system.h"
 using namespace web_rpc::utility;
 
 #include "../thread/taskdispatcher.h"
@@ -10,23 +12,24 @@ using namespace web_rpc::thread_poll;
 #include "../socket/socketHandler.h"
 using namespace web_rpc::socket;
 
+
+
 Server::Server()
 {
     // System * sys = Singleton<System>::instance();
     // sys->init();
-
+    System::instance().init();
     // // init logger
     // Logger::instance()->open(sys->get_root_path() + "/log/server.log");
-
-    // // init inifile
-    // IniFile * ini = Singleton<IniFile>::instance();
-    // ini->load(sys->get_root_path() + "/config/server.ini");
-
-    // m_ip = (string)(*ini)["server"]["ip"];
-    // m_port = (*ini)["server"]["port"];
-    // m_threads = (*ini)["server"]["threads"];
-    // m_connects = (*ini)["server"]["max_conn"];
-    // m_wait_time = (*ini)["server"]["wait_time"];
+    Logger::instance()->initLogger();
+    // init inifile
+    IniFile::instance().load( System::instance().get_root_path() + "/config/server.ini");
+     IniFile* ini = &IniFile::instance();
+     m_ip = (string)(*ini)["server"]["ip"];
+     m_port = (*ini)["server"]["port"];
+     m_threads = (*ini)["server"]["threads"];
+     m_connects = (*ini)["server"]["max_conn"];
+     m_wait_time = (*ini)["server"]["wait_time"];
 }
 
 Server::~Server()
@@ -42,10 +45,9 @@ void Server::listen(const string & ip, int port)
 void Server::start()
 {
     // init the thread pool and task queue
-    Logger::instance()->initLogger();
-    TaskDispatcher::getInstance().initTaskDispatcher();
-    SocketHandler::getInstance().listen("127.0.0.1",8080);
-    SocketHandler::getInstance().handle(8,0);
+    TaskDispatcher::getInstance().initTaskDispatcher(m_threads);
+    SocketHandler::getInstance().listen(m_ip,m_port);
+    SocketHandler::getInstance().handle(m_connects,m_wait_time);
 
 }
 
