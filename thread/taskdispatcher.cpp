@@ -1,9 +1,10 @@
 #include "taskdispatcher.h"
+#include "..\utility\logger.h"
 #include "signal.h"
 #include <signal.h>
 #include <string.h>
-#include "..\utility\logger.h"
-
+#include<iostream>
+#include<chrono>
 using namespace web_rpc::thread_poll;
 using namespace web_rpc::utility;
 TaskDispatcher::TaskDispatcher(/* args */)
@@ -14,25 +15,36 @@ TaskDispatcher::~TaskDispatcher()
 {
 }
 
-void TaskDispatcher::initTaskDispatcher()
+void TaskDispatcher::initTaskDispatcher(int num)
 {
-    ThreadPool::GetInstance().init(8);
-    debug("task dispatcher init %d threadPool number",8);
+    ThreadPool::GetInstance().init(num);
+    debug("task dispatcher init %d threadPool number",num);
     start();
 }
 void TaskDispatcher::assign(Task *task)
 {
      debug("task dispatcher assign task");
     // 主线程调用、与任务分发线程调用
-    AutoMutex lock(&m_mutex);
+    m_mutex.lock();
     m_listTask.push_back(task);
+    m_mutex.unLock();
     m_con.signal();
-
 }
-
+void TaskDispatcher::setTaskNumber(int taskNumber)
+{
+    m_taskNumber =taskNumber;
+}
+void TaskDispatcher::setTaskStartTime(int64_t startTime)
+{
+    m_startTime =startTime;
+}
+int64_t TaskDispatcher::getEndTaskTime()
+{
+    return m_endTime;
+}
 void TaskDispatcher::run()
 {
-
+    static int taskNumber = 0;
     // 线程派发任务呗
     // 这里有一个任务队列吧
     unsigned long  mask;
@@ -65,6 +77,16 @@ void TaskDispatcher::run()
         else
         {
            ThreadPool::GetInstance().assign(pTask);
+           taskNumber++;
         }
+        if (taskNumber == m_taskNumber)
+        {
+            auto start = std::chrono::system_clock::now();
+            auto duration = start.time_since_epoch();
+            m_endTime = std::chrono::duration_cast<std::chrono::milliseconds>(duration).count();
+            float c = (m_endTime-m_startTime)/static_cast<float>(m_taskNumber);
+             std::cout<<"起始时间："<<m_startTime<<"截止时间"<<"任务数量:"<<m_taskNumber<<"总耗时："<<m_endTime-m_startTime<<"平均时间"<<(c)<<std::endl;
+        }
+        
     }
 };

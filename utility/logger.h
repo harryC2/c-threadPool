@@ -12,7 +12,7 @@ namespace utility {
         DEBUG = 0,
         INFO,
         WARN,
-        ERROR,
+        ERRORE,
         FATAL,
         LEVEL_COUNT
     };
@@ -27,7 +27,7 @@ namespace utility {
     Logger::instance()->log(Level::WARN, __FILE__, __LINE__, format, ##__VA_ARGS__)
 
 #define error(format, ...) \
-    Logger::instance()->log(Level::ERROR, __FILE__, __LINE__, format, ##__VA_ARGS__)
+    Logger::instance()->log(Level::ERRORE, __FILE__, __LINE__, format, ##__VA_ARGS__)
 
 #define fatal(format, ...) \
     Logger::instance()->log(Level::FATAL, __FILE__, __LINE__, format, ##__VA_ARGS__)
